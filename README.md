@@ -1,10 +1,10 @@
-# Medical Metaphors Corpus (MCC)
+# Medical Metaphors Corpus (MMC)
 
 A comprehensive dataset of 792 annotated scientific conceptual metaphors spanning medical and biological domains.
 
 ## Overview
 
-The Medical Metaphors Corpus (MCC) is the first openly released resource that captures metaphorical language across the breadth of medical and biological discourse. It addresses a critical gap between general-domain metaphor datasets and the specific needs of scientific NLP applications.
+The Medical Metaphors Corpus (MMC) is the first openly released resource that captures metaphorical language across the breadth of medical and biological discourse. It addresses a critical gap between general-domain metaphor datasets and the specific needs of scientific NLP applications.
 
 ### Key Features
 
