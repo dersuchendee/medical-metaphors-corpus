@@ -46,7 +46,8 @@ The corpus aggregates metaphors from nine diverse sources across different disco
 ```
 medical-metaphors-corpus/
 ├── README.md                          
-├── m3c.csv                           # Main dataset file
+├── mmc.csv                           # Main dataset file
+├── annotated_mmc.csv                           # Main dataset file, but annotated
 ├── code/
 │   ├── calculate_llm_scores.py       # code for LLM evaluation with confidence weighting
 │   └── example_query_llm.py          # Example LLM querying script
